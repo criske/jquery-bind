@@ -1,7 +1,8 @@
 # jquery-bind
 
-Reactive jquery (working idea in progress):
+## Reactive jquery (working idea in progress)
 
+Simple counter:
 ```javascript
 $(() => {
 
@@ -29,6 +30,8 @@ $(() => {
 
 });
 ```
+
+![cc](./example-screen.gif)
 
 
 
