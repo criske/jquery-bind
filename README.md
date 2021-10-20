@@ -34,4 +34,12 @@ $(() => {
 ![cc](./example-screen.gif)
 
 
+## API Aim:
+
+```javascript
+$('p').$bind(state).css('color', '#{color}').text('Counter is: #{counter}');
+```
+
+
+
 
